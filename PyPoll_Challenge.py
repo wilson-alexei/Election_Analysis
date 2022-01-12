@@ -105,7 +105,7 @@ county_results = (
 # 6d: Print the county results to the terminal.
 print(county_results, end="")
 # 6e: Save the county votes to a text file.
-#txt.file.write(county_results)
+txt.file.write(county_results)
         # 6f: Write an if statement to determine the winning county and get its vote count.
 if (county > winning_county) and (county_percentage > winning_c_percentage):
             winning_county = county

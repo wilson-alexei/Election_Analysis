@@ -11,13 +11,14 @@ As of the analysis, the total cast votes for this congressional election is 369,
 We start with Denver as it is county with the largest turnout with 306,055 votes and that is 82.8% of the total votes. The second largest turnout county is Jefferson with 38,855 votes which is 10.5% of the total votes. Lastly, Arapahoe has 24,801 votes which is 6.7% of the total votes. 
 
 - Which county had the largest number of votes?
-The largest county turnout is Denver 
+The county that has the largest number of votes is Denver
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received
-The winner of this election, Diana DeGette, receives 272, 892 votes which is 73.8% of the total votes. The second place is Charles Casper Stockham with 85,213 votes and that is 23% of the total votes. In last place, Raymon Anthony Doane receives 11,606 votes which is only 3.1% of the total votes. 
+The winner of this election, Diana DeGette, receives 272,892 votes which is 73.8% of the total votes. The second place is Charles Casper Stockham with 85,213 votes and that is 23% of the total votes. In last place, Raymon Anthony Doane receives 11,606 votes which is only 3.1% of the total votes. 
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 The winner of this election is Diana DeGette with 272,892 votes and that is 73.8% of the total votes. That is a dominant win for Diana DeGette.  
 
 ##Election-Audit Summary 
+
 

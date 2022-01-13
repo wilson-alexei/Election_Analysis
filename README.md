@@ -20,5 +20,5 @@ The winner of this election, Diana DeGette, receives 272,892 votes which is 73.8
 The winner of this election is Diana DeGette with 272,892 votes and that is 73.8% of the total votes. That is a dominant win for Diana DeGette.  
 
 ##Election-Audit Summary 
-
+In this Module and Deliverables, Python is proven to be efficient and useful for this particular local congressional election analysis. However, this script can be modified and improved to be used for the any types of election. We can use it for senatorial or even presidential election. All we need to do is import different candidacy files containing data with unique information, maybe make some code changes adjusting to the requested data, and then let the script run to provide another election data analysis. 
 

@@ -1,4 +1,5 @@
 # Election_Analysis
+Provide additional data to aid the Colorado Board of Elections audit analysis 
 
 ## Overview of Election Audit 
 The purpose of the election audit analysis is to provide additional data to aid the Colorado Board of Elections complete the audit more efficiently. The requested additional data includes the voter turnout for each county, the percentage of votes from each county out of the total count, and lastly the county with the highest turnout. We will utilize Python and Visual Studio Code to process and run the codes which will give us the required data and result. We will use repetition statements, conditional statements, and print statements to produce an election result in a txt file. By the end of this Deliverable and Module, we will find out the total votes, county votes for each candidate, and the winner of the election with far more in-depth details. 
